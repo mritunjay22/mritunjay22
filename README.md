@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 Passionate Software Engineer with 2.5 years of experience in Java, Apache Spark, and Scala. Skilled in microservice and message-driven architecture, data structures, and frameworks like Play Framework and Spring Boot.
 
 
 ## 🌐 Socials:
